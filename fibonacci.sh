@@ -1,2 +1,2 @@
-echo "Fibonacci Series"
+echo "Fibonacci Series is printed below"
 sleep infinity
